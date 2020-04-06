@@ -90,7 +90,7 @@ var trace1 = {
   mode: 'markers',
   marker: {
     size: bsample_values,
-    color:otu_ids
+    color:botu_ids
   }
 };
 
